@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="script.js"></script>
+    <title>Quiz Board</title>
+        <!-- Latest compiled and minified CSS -->
+       <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">-->
+        
+        <!--<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>-->
+        <!-- Latest compiled and minified JavaScript -->
+        <!--<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>-->
+        
+</head>
+<body>
+    <nav>
+        <h2>compCLUB</h2>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#academics">Academics</a></li>
+            <li><a href="#programs">Programs</a></li>
+            <li><a href="#contact">Contact Us</a></li>
+        </ul>
+    </nav>
+    <div class="banner">
+        <h1>Quiz Box</h1>
+        <p>Congratulations for coming this far, i bet it has been a great learning experience. Test your understanding on javasript by attempting the following questions;</p>
+    </div>
+    <form name="first" class="main_container">
+        <div class="container1">
+            <p>1. Which is not valid data type in Javascript?</p>
+            <p><input type="radio" name="question1" value="Undefined">Undefined</p>
+            <p><input type="radio" name="question1" value="Boolean">Boolean</p>
+            <p><input type="radio" name="question1" value="Float">Float</p>
+            <p><input type="radio" name="question1" value="Number">Number</p>
+        </div> 
+        <div class="container2">
+            <p>2. Which type of language is Javascript?</p>
+            <p><input type="radio" name="question2" value="Programming">Programming</p>
+            <p><input type="radio" name="question2" value="Scripting">Scripting</p>
+            <p><input type="radio" name="question2" value="Markup">Markup</p>
+            <p><input type="radio" name="question2" value="None of the above">None of the above</p>
+        </div>
+        <div class="container3">
+            <p>3. By which javascript code is used?</p>
+            <p><input type="radio" name="question3" value="Classes">Classes</p>
+            <p><input type="radio" name="question3" value="Methods/Functions">Methods/Functions</p>
+            <p><input type="radio" name="question3" value="RMI">RMI</p>
+            <p><input type="radio" name="question3" value="Events">Events</p>
+        </div>
+        <div class="container4">
+            <p>4. Which tag is used to write the javascript code?</p>
+            <p><input type="radio" name="question4" value="script">script</p>
+            <p><input type="radio" name="question4" value="sp">sp </p>
+            <p><input type="radio" name="question4" value="javascript">javascript</p>
+            <p><input type="radio" name="question4" value="java">java</p>
+        </div>
+        <div class="container5">
+            <p>5. Which of the following function of string object causes a string to be italic?</p>
+            <p><input type="radio" name="question5" value="fontsize()">fontsize</p>
+            <p><input type="radio" name="question5" value="fontcolor()">fontcolor</p>
+            <p><input type="radio" name="question5" value="fixed()">fixed</p>
+            <p><input type="radio" name="question5" value="italics">italics</p>
+        </div>
+        <span class="button"><input type="button" value="submit" onclick="grade()"></span>
+    </form>
+       <div id="text"></div>
+
+</body>
+</html>
