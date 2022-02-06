@@ -9,8 +9,8 @@
 ## Project Design
 <p>The project was designed using figma prototyping tool as shown below</P>
 
-![PROTOTYPE!](Quiz Box Main (1).png)
-
+![design!](design.png)
+ 
 ## Installation Requirements
 
 * An iPad, a PC, a phone, or any other mobile device.
