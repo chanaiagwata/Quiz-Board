@@ -21,8 +21,12 @@
 * HTML - This served as the basis for building the pages' structure.
 * CSS - This was employed in the styling of the web-page, including the left-side navigation bar.
 * Javascript- This was used to add functionality to the website.
+* 
+## Depenancies
+Bootstrap
+jquerry
 
-## Executing Program
+## Set up
  * Ensure you are connected to the internet,
  * Login in to github and access this repository (Quiz_Box), and 
  * Open the livelink to load the website.
@@ -50,7 +54,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 Licensed under the [MIT License](LICENSE). 
 
-## Authors Info
+## Author's Contact Info
 
 Linkedin Profile - [Chanai Agwata](https://www.linkedin.com/in/chanai-agwata-90a345146/)
 
