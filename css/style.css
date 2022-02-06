@@ -112,7 +112,7 @@ nav h2{
     background: #25296B;
     width: 700px;
     height: 220px;
-    padding: 30px;
+    padding: 10px;
     border-radius: 10px;
 }
 .button{
@@ -121,4 +121,14 @@ nav h2{
 }
 #text{
     font-size: 24px;
+}
+footer{
+    width: 30%;
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    align-items:stretch;
+    margin-left: 60%;
+    padding-top: 60px;
 }
