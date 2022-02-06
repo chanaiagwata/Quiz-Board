@@ -7,10 +7,7 @@
 
 ## Getting Started
 ## Project Design
-<p>The project was designed using figma prototyping tool as shown below</P>
-
-
-![design](https://user-images.githubusercontent.com/98164615/152685345-515554f2-5a07-4586-a85b-f576ad674267.png)
+<p>The project was designed using figma prototyping tool as shown below;</P>
 
  
 ## Installation Requirements
@@ -21,12 +18,8 @@
 * HTML - This served as the basis for building the pages' structure.
 * CSS - This was employed in the styling of the web-page, including the left-side navigation bar.
 * Javascript- This was used to add functionality to the website.
-* 
-## Dependancies
-Bootstrap
-jquerry
 
-## Set up
+## Executing Program
  * Ensure you are connected to the internet,
  * Login in to github and access this repository (Quiz_Box), and 
  * Open the livelink to load the website.
@@ -54,7 +47,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 Licensed under the [MIT License](LICENSE). 
 
-## Author's Contact Info
+## Authors Info
 
 Linkedin Profile - [Chanai Agwata](https://www.linkedin.com/in/chanai-agwata-90a345146/)
 
