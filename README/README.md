@@ -22,7 +22,7 @@
 * CSS - This was employed in the styling of the web-page, including the left-side navigation bar.
 * Javascript- This was used to add functionality to the website.
 * 
-## Depenancies
+## Dependancies
 Bootstrap
 jquerry
 
