@@ -42,6 +42,9 @@ nav h2{
     width: 250px;
     height: auto;
 }
+.call{
+    background-color:white;
+}
 .banner{
     font-family: sans-serif;
     background-color: orange;
