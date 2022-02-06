@@ -7,7 +7,13 @@
 
 ## Getting Started
 ## Project Design
+<<<<<<< HEAD
 <p>The project was designed using figma prototyping tool as shown below;</P>
+=======
+<p>The project was designed using figma prototyping tool as shown below</P>
+
+[The design for the project can be viewed here](https://www.figma.com/file/LeQ07jU8d0NVJ3DaCvxRL9/Quiz-Box-Main?node-id=0%3A1)
+>>>>>>> 86808ea519a1bb20a0f96c9c82d6216aefda3c62
 
  
 ## Installation Requirements
