@@ -8,6 +8,7 @@
 ## Getting Started
 ## Project Design
 <p>The project was designed using figma prototyping tool as shown below</P>
+
 [The design for the project can be viewed here](https://www.figma.com/file/LeQ07jU8d0NVJ3DaCvxRL9/Quiz-Box-Main?node-id=0%3A1)
 
  
