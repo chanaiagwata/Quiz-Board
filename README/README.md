@@ -9,7 +9,9 @@
 ## Project Design
 <p>The project was designed using figma prototyping tool as shown below</P>
 
-![design!](design.png)
+
+![design](https://user-images.githubusercontent.com/98164615/152685345-515554f2-5a07-4586-a85b-f576ad674267.png)
+
  
 ## Installation Requirements
 
